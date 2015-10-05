@@ -1,9 +1,5 @@
 # workstation
 repo_filepath = node['chef-repo']['filepath']
-
-print repo_filepath
-
-# remote server
 cookbook_filepath = node['chef-server-cookbook']['filepath']
 
 bash 'get_config_files' do
