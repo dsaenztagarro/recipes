@@ -1,0 +1,10 @@
+{
+  "chef-repo": {
+    "filepath": "/Users/dst/Projects/chef/chef-repo"
+  },
+  "chef-server": {
+    "hostname": "chefserver.local",
+    "username": "vagrant",
+    "config-filepath": "@:/home/vagrant"
+  }
+}
