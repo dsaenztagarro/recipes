@@ -2,10 +2,7 @@
   "chef-repo": {
     "filepath": "/Users/dst/Projects/chef/chef-repo"
   },
-  "chef-server": {
-    "type": "local",
-    "hostname": "chefserver.local",
-    "username": "vagrant",
-    "config-filepath": "@:/home/vagrant"
+  "chef-server-cookbook": {
+    "filepath": "/Users/dst/Projects/chef/cookbooks/chef-server"
   }
 }
